@@ -1,3 +1,3 @@
 export default function ImageComparison() {
-  return <div></div>;
+  return null;
 }
