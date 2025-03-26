@@ -7,10 +7,10 @@ export default function TheBand() {
         <main id="page-content" className="page-content">
           <article>
             <section>
-              <h2 id="synthesizers">Synthesizers</h2>
+              <h1 id="synthesizers">Synthesizers</h1>
               <figure>
                 <Image
-                  src="/synthesizers/arp-odyssey-2800-whiteface-uhd.avif"
+                  src="/synthesizers/arp-odyssey-2800-whiteface.avif"
                   alt="White ARP Odyssey"
                   width={1800}
                   height={1200}
@@ -51,10 +51,10 @@ export default function TheBand() {
                 modules that are reproductions of those classic modular
                 synthesizers that I couldn’t afford back in the day.
               </p>
-              <h1>Eurorack Modular</h1>
+              <h2>Eurorack Modular</h2>
               <figure>
                 <Image
-                  src="/synthesizers/modular-55-fhd.avif"
+                  src="/synthesizers/modular-55.avif"
                   alt="Modular Eurorack"
                   width={1800}
                   height={1200}
@@ -75,7 +75,7 @@ export default function TheBand() {
               <h2 id="my-behringer-arp-2600">My Behringer ARP 2600</h2>
               <figure>
                 <Image
-                  src="/synthesizers/b2600-blue-marvin-face-fhd.avif"
+                  src="/synthesizers/b2600-blue-marvin-face.avif"
                   alt="B2600 Blue Marvin"
                   width={1800}
                   height={1200}
@@ -362,7 +362,7 @@ export default function TheBand() {
                 you can get a 10% coupon if you purchase through this link:{" "}
                 <a href="https://www.waves.com/r/13vnk8">10% Coupon</a>
               </p>
-              <h1>VST Instruments</h1>
+              <h2>VST Instruments</h2>
               <figure>
                 <Image
                   src="/synthesizers/logic-pro-vst.avif"

@@ -6,7 +6,7 @@ export default function BomeMouseKeyboard() {
       <div id="bome-mouse-keyboard">
         <main id="page-content" className="page-content">
           <article>
-            <h1>Bome Mouse Keyboard</h1>
+            <h1>How to Configure Bome’s MIDI Keyboard with ACID</h1>
             <p>
               Sometimes you just don’t have a hardware MIDI keyboard handy (like
               when traveling) but you need to compose something with ACID that
@@ -14,9 +14,6 @@ export default function BomeMouseKeyboard() {
               keyboard that you can use from Bome that will get you by in a
               pinch. Here’s how to set it up.
             </p>
-            <h2 id="how-to-configure-bomes-midi-keyboard-with-acid">
-              How to Configure Bome’s MIDI Keyboard with ACID
-            </h2>
             <p>Software Needed for this tutorial:</p>
             <ul>
               <li>
@@ -30,7 +27,7 @@ export default function BomeMouseKeyboard() {
                 </a>
               </li>
             </ul>
-            <h3 id="virtual-midi-router">Virtual MIDI Router</h3>
+            <h2 id="virtual-midi-router">Virtual MIDI Router</h2>
             <p>
               The Virtual MIDI Router from Sony acts like a virtual MIDI cable.
               It allows you to route MIDI inputs and outputs as if you had real
@@ -39,12 +36,9 @@ export default function BomeMouseKeyboard() {
               the Bome Mouse Keyboard to an input just like it was a real
               hardware MIDI keyboard with a MIDI cable attached. The
               instructions for installing the Virtual MIDI Router are on{" "}
-              <a href="/training/music-tutorials/virtual-midi-router-installation/">
-                this page
-              </a>
-              .
+              <a href="/virtual-midi-router">this page</a>.
             </p>
-            <h3 id="bomes-mouse-keyboard">Bome’s Mouse Keyboard</h3>
+            <h2 id="bomes-mouse-keyboard">Bome’s Mouse Keyboard</h2>
             <p>
               Start by installing the Bome Mouse Keyboard using its install
               utility then follow these instructions below to configure it for

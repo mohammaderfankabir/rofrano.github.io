@@ -6,7 +6,7 @@ export default function CineformTemplates() {
       <div id="cineform-templates">
         <main id="page-content" className="page-content">
           <article>
-            <h1>Creating Cineform Templates</h1>
+            <h1>Create a CineForm Render Template in Sony Vegas Pro</h1>
             <p>
               Versions of Sony Vegas 6, 7, &amp; Pro 8 shipped with CineForm
               codec and render templates for Cineform, but starting with Vegas
@@ -21,9 +21,6 @@ export default function CineformTemplates() {
               it, you will still need to create render templates in order to use
               it for output.
             </p>
-            <h3 id="create-a-cineform-render-template-in-sony-vegas-pro">
-              Create a CineForm Render Template in Sony Vegas Pro
-            </h3>
             <p>
               This tutorial will show you how to create a CineForm template for
               rendering.

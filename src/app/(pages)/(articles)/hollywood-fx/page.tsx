@@ -6,7 +6,7 @@ export default function HollywoodFx() {
       <div id="hollywood-fx">
         <main id="page-content" className="page-content">
           <article>
-            <h1>Using Hollywood FX with Vegas Pro</h1>
+            <h1>Exporting and Importing a Transition made with Hollywood FX</h1>
             <p>
               Wouldn’t it be nice if everything you needed was a plug-in to
               Vegas Pro? Unfortunately, there are lots of standalone packages
@@ -23,12 +23,9 @@ export default function HollywoodFx() {
               <a href="http://declic-video-fx.com/">Déclic Vidéo</a> site which
               I highly recommend you visit if you are into Hollywood FX.
             </p>
-            <h2 id="exporting-and-importing-a-transition-made-with-hollywood-fx">
-              Exporting and Importing a Transition made with Hollywood FX
-            </h2>
-            <h3 id="the-following-steps-should-be-done-in-vegas">
+            <h2 id="the-following-steps-should-be-done-in-vegas">
               The following steps should be done in Vegas
-            </h3>
+            </h2>
             <ol>
               <li>
                 <p>
@@ -114,9 +111,9 @@ export default function HollywoodFx() {
                 </p>
               </li>
             </ol>
-            <h3 id="the-following-steps-should-be-done-in-pinnacle-studio">
+            <h2 id="the-following-steps-should-be-done-in-pinnacle-studio">
               The following steps should be done in Pinnacle Studio
-            </h3>
+            </h2>
             <ol>
               <li>
                 <p>Bring the rendered clip into Pinnacle Studio</p>
@@ -159,9 +156,9 @@ export default function HollywoodFx() {
                 </p>
               </li>
             </ol>
-            <h3 id="the-following-steps-should-be-done-back-in-vegas">
+            <h2 id="the-following-steps-should-be-done-back-in-vegas">
               The following steps should be done back in Vegas
-            </h3>
+            </h2>
             <ol>
               <li>
                 <p>

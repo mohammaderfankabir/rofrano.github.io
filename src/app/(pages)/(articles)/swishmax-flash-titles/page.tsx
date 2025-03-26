@@ -6,16 +6,13 @@ export default function SwishmaxFlashTitles() {
       <div id="swishmax-flash-titles">
         <main id="page-content" className="page-content">
           <article>
-            <h1>Making Flash Titles with SWISHMax</h1>
+            <h1>How to make an animated title in Vegas using SWISHmax</h1>
             <p>
               There are times when you need a quick animated title in Vegas but
               don’t have time to do a lot of keyframing. Luckily, Vegas supports
               Flash SWF files which means, you can make animated titles in any
               Flash tool and drop the SWF file in Vegas.
             </p>
-            <h3 id="how-to-make-an-animated-title-in-vegas-using-swishmax">
-              How to make an animated title in Vegas using SWISHmax
-            </h3>
             <p>Here’s how you do it.</p>
             <p>
               I’m using SWISHmax for this tutorial but any Flash tool that

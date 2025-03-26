@@ -49,9 +49,9 @@ export default function MusicCopyrights() {
               you would want your own work respected and please consult with a
               copyright attorney to be sure that what you intend to so is legal.
             </p>
-            <h3 id="links-to-articles-on-the-topic">
+            <h2 id="links-to-articles-on-the-topic">
               Links to articles on the topic:
-            </h3>
+            </h2>
             <ul>
               <li>
                 <a href="http://www.sundancemediagroup.com/articles/copyright.htm">
@@ -66,9 +66,9 @@ export default function MusicCopyrights() {
                 - Stanford University Library
               </li>
             </ul>
-            <h3 id="links-to-perform-copyright-searches">
+            <h2 id="links-to-perform-copyright-searches">
               Links to perform copyright searches:
-            </h3>
+            </h2>
             <ul>
               <li>
                 <a href="https://www.ascap.com/Home/ace-title-search/index.aspx">
