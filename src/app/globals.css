@@ -1,24 +1,84 @@
 @import "tailwindcss";
 
-@theme {
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --theme-bg: #101010;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Add margin to the entire page */
+html {
+  margin: 330px; /* Adjust the value to suit your design */
+  padding: 0; /* Remove default padding from the body */
+  box-sizing: border-box; /* Ensures padding/margin don't affect the layout size */
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  color: #bfbfbf;
+  margin: 56px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+h2 {
+  font-size: 1.75rem;
+  color: white;
+  margin-bottom: 0.75rem; /* Space below <h2> */
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: white;
+  margin-bottom: 0.75rem; /* Space below <h2> */
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-top: 1rem; /* Adds space above <p> */
+  margin-bottom: 1rem; /* Adds space below <p> */
+}
+
+/* Style for the <a> tag */
+a {
+  color: #0066cc; /* Blue color for links */
+  text-decoration: underline; /* Underline the link */
+  transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+/* Optional: Style for visited links */
+a:visited {
+  color: #6600cc; /* Darker color for visited links */
+}
+
+/* Style for when the link is hovered over */
+a:hover {
+  color: #ff6600; /* Change color when hovered */
+  text-decoration: none; /* Remove underline on hover */
+}
+
+/* Style for when the link is active (clicked) */
+a:active {
+  color: #cc0000; /* Red color for active link */
+}
+
+/* Apply a width of 780px to all images with automatic height and center them */
+/* Apply width, automatic height, and border-radius */
+img {
+  width: 780px;
+  height: auto;
+  border-radius: 20px;
+  display: block; /* Ensures the image behaves like a block element */
+  margin: 0 auto; /* Centers it horizontally */
+}
+
+.layout-default {
+  background-color: var(--theme-bg);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  position: relative;
 }
