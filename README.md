@@ -5,8 +5,8 @@
             gap: 5vw; 
             padding: 5vw;">
   
-  <img class="logo-img" src="public/logos/logo-icon-outline.svg">
-  <img class="logo-img" src="public/logos/logo-text.svg">
+  <Image class="logo-img" src="public/logos/logo-icon-outline.svg">
+  <Image class="logo-img" src="public/logos/logo-text.svg">
 
 </div>
 

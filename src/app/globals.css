@@ -1,80 +1,84 @@
 @import "tailwindcss";
 
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  --theme-bg: #101010;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
+/* Add margin to the entire page */
+html {
+  margin: 330px; /* Adjust the value to suit your design */
+  padding: 0; /* Remove default padding from the body */
+  box-sizing: border-box; /* Ensures padding/margin don't affect the layout size */
 }
 
 body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  color: #bfbfbf;
+  margin: 56px;
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: white;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+h2 {
+  font-size: 1.75rem;
+  color: white;
+  margin-bottom: 0.75rem; /* Space below <h2> */
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+h3 {
+  font-size: 1.5rem;
+  color: white;
+  margin-bottom: 0.75rem; /* Space below <h2> */
 }
 
-/* In your global CSS file (e.g., src/index.css) */
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-top: 1rem; /* Adds space above <p> */
+  margin-bottom: 1rem; /* Adds space below <p> */
+}
+
+/* Style for the <a> tag */
+a {
+  color: #0066cc; /* Blue color for links */
+  text-decoration: underline; /* Underline the link */
+  transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+/* Optional: Style for visited links */
+a:visited {
+  color: #6600cc; /* Darker color for visited links */
+}
+
+/* Style for when the link is hovered over */
+a:hover {
+  color: #ff6600; /* Change color when hovered */
+  text-decoration: none; /* Remove underline on hover */
+}
+
+/* Style for when the link is active (clicked) */
+a:active {
+  color: #cc0000; /* Red color for active link */
+}
+
+/* Apply a width of 780px to all images with automatic height and center them */
+/* Apply width, automatic height, and border-radius */
 img {
-  max-width: 400px;
-  width: 100%;
+  width: 780px;
   height: auto;
   border-radius: 20px;
-  display: block;
-  margin: 0 auto; /* This centers the image horizontally */
+  display: block; /* Ensures the image behaves like a block element */
+  margin: 0 auto; /* Centers it horizontally */
+}
+
+.layout-default {
+  background-color: var(--theme-bg);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  position: relative;
 }
