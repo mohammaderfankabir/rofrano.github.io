@@ -1,0 +1,36 @@
+{
+  "name": "next-sanity",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "typegen": "sanity schema extract --path=./src/sanity/extract.json && sanity typegen generate",
+    "sanity-prefetch": "node src/scripts/sanity-prefetch.js",
+    "build": "npm run typegen && npm run sanity-prefetch && next build",
+    "export": "npm run typegen && npm run sanity-prefetch && next export",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sanity/image-url": "^1.1.0",
+    "@sanity/vision": "^3.88.0",
+    "motion": "^12.12.2",
+    "next": "15.3.1",
+    "next-sanity": "^9.10.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sanity": "^3.88.0",
+    "styled-components": "^6.1.17"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@sanity/cli": "^3.90.0",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,57 @@
+.left {
+  width: 100%;
+  order: 0;
+}
+
+.footerWordmark {
+  height: 40px;
+  width: auto;
+}
+
+.hr {
+  border-top: 1px solid #2a2a2a;
+  margin: 2rem 0 !important;
+}
+
+.link {
+  text-decoration: none;
+  color: #4d4d4d !important;
+  font-size: 0.875rem;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.right {
+  width: max-content;
+  text-align: left;
+  order: 1;
+}
+
+.p {
+  margin: 0 !important;
+  font-size: 0.875rem !important;
+  color: #555;
+}
+
+.position {
+  display: flex;
+  justify-content: "space-between";
+}
+
+@media (max-width: 756px) {
+  .position {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem !important;
+  }
+  .left {
+    margin: 0 !important;
+    order: 1; /* move left block to last */
+  }
+  .right {
+    margin: 0 !important;
+    order: 0; /* move right block to first */
+  }
+}

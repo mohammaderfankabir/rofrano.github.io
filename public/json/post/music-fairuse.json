@@ -1,0 +1,274 @@
+{
+  "_createdAt": "2025-05-28T20:08:08Z",
+  "_id": "15b08a0c-cd49-496b-b679-ba66dc649bff",
+  "_rev": "qKVobQIv2cxCxC7eKGSzZQ",
+  "_type": "post",
+  "_updatedAt": "2025-06-01T10:32:40Z",
+  "body": [
+    {
+      "_key": "40ba1bcfbf3a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "83446b344cac",
+          "_type": "span",
+          "marks": [],
+          "text": "Music Fairuse"
+        }
+      ],
+      "markDefs": [],
+      "style": "h1"
+    },
+    {
+      "_key": "ab681fcad209",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "aba5ed59980a",
+          "_type": "span",
+          "marks": [
+            "em"
+          ],
+          "text": "Disclaimer: I’m not a lawyer, and this doesn’t serve as legal advice. This page reflects what I’ve learned from my research. Always consult a lawyer regarding copyright matters."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "6b1d68f8521b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "aa874e11fb41",
+          "_type": "span",
+          "marks": [],
+          "text": "There are a few things to consider when mixing music and video. Many believe buying a CD gives them the right to use that music in their videos. While it isn’t an issue for personal use, as soon as you give a copy of the video away or show it outside your home at a public gathering, you are breaking the law unless you obtain permission from the copyright holders."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "575aec733ce7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "3e0c0f22730a",
+          "_type": "span",
+          "marks": [],
+          "text": "Purchasing a music CD gives you the right to listen to the music. When you synchronize that music to video images, you create a derivative work that requires a Sync license. These are usually granted by the Publisher of the music because it is independent of any artist who may have covered the song. You will also need to obtain the rights for the specific song you want to use."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "be0d47aa688e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "0bd6a8e069c4",
+          "_type": "span",
+          "marks": [],
+          "text": "If you are creating a video, you are the author of a work that has its copyrights. Please respect the copyrights of others, as you would want your work respected, and please consult with a copyright attorney to be sure that what you intend to do is legal."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "45f8ca2a7fd0",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "ab459fb314c7",
+          "_type": "span",
+          "marks": [],
+          "text": "Further Reading"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "d0e0a73ca512",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "2d8d19115229",
+          "_type": "span",
+          "marks": [
+            "e64de18ca0a1"
+          ],
+          "text": "My Voice, My Choice: Basic Copyright Caveats - by Douglas Spotted Eagle"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [
+        {
+          "_key": "e64de18ca0a1",
+          "_type": "link",
+          "href": "http://www.sundancemediagroup.com/articles/copyright.htm"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "2e8ff5cf2243",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "85bb78dcca67",
+          "_type": "span",
+          "marks": [
+            "c2ea134e3a97"
+          ],
+          "text": "Copyrights & Fair Use - Stanford University Library"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [
+        {
+          "_key": "c2ea134e3a97",
+          "_type": "link",
+          "href": "https://fairuse.stanford.edu/overview/"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "03511ca146d9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "35785c64ebb3",
+          "_type": "span",
+          "marks": [],
+          "text": "Copyright Search"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "89bddc67b313",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "17fc2ee21b7c",
+          "_type": "span",
+          "marks": [
+            "c8e0ade78ea8"
+          ],
+          "text": "ASCAP ACE Search - A great place to find the publisher of a song"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [
+        {
+          "_key": "c8e0ade78ea8",
+          "_type": "link",
+          "href": "https://www.ascap.com/repertory/#/"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "ac3d08054db1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "f0bcd3109c5d",
+          "_type": "span",
+          "marks": [
+            "cf94b6a40471"
+          ],
+          "text": "BMI Search - Another great place to find publishers"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [
+        {
+          "_key": "cf94b6a40471",
+          "_type": "link",
+          "href": "http://www.bmi.com/search/"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "ae31a76bd211",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "12e5a5368949",
+          "_type": "span",
+          "marks": [
+            "d29d97797613"
+          ],
+          "text": "Library of Congress Copyright Office - Good for US copyrights only"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [
+        {
+          "_key": "d29d97797613",
+          "_type": "link",
+          "href": "http://catalog.loc.gov/"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "15f5a9164fa3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b209a2dbde3d",
+          "_type": "span",
+          "marks": [
+            "e7f5df0f33b1"
+          ],
+          "text": "US Copyright Office"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [
+        {
+          "_key": "e7f5df0f33b1",
+          "_type": "link",
+          "href": "http://www.copyright.gov/"
+        }
+      ],
+      "style": "normal"
+    }
+  ],
+  "categories": [
+    {
+      "_key": "39d8df5392a5",
+      "_ref": "aff6c345-8721-43ee-b2e6-a99c9b0a403c",
+      "_type": "reference"
+    }
+  ],
+  "changeFrequency": "monthly",
+  "description": "Learn about music copyrights, sync licenses, and permissions for video use.",
+  "lastModified": "2025-05-28T20:07:39Z",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Book Shelves",
+    "asset": {
+      "_ref": "image-7b5a66e2c25b92397abec274106b8c1e00ed619c-930x1180-png",
+      "_type": "reference"
+    }
+  },
+  "priority": 0.5,
+  "slug": "music-fairuse",
+  "title": "Music Fairuse"
+}

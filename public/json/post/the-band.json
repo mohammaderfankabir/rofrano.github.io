@@ -1,0 +1,538 @@
+{
+  "_createdAt": "2025-05-28T20:35:35Z",
+  "_id": "1dde9612-69bf-4fa2-9b52-9a7929189506",
+  "_rev": "MaIoS9yq7RPNhL9VIfa4qm",
+  "_type": "post",
+  "_updatedAt": "2025-06-02T17:58:49Z",
+  "body": [
+    {
+      "_key": "3d935a21e87e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "42c33b378bc2",
+          "_type": "span",
+          "marks": [],
+          "text": "Born in the ’50s, raised in the ’60s, gigged in the ’70s"
+        }
+      ],
+      "markDefs": [],
+      "style": "h1"
+    },
+    {
+      "_key": "7e0595bcba98",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "867bae7fb7d7",
+          "_type": "span",
+          "marks": [],
+          "text": "Those were the days…, slept all day, played music all night, and got paid for it. The picture above is me at about 25 years of age with my Polymoog Keyboard and Minimoog on top of my Hammond B3. I still have all three of those instruments today. At the time of this photo, I gigged with The Andy Gootch Band in the Mid-Hudson Valley of New York State. Like I said, man…, those were the days of Rock & Roll."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "4da086ff3417",
+      "_type": "image",
+      "alt": "In Gootch",
+      "asset": {
+        "_ref": "image-4411f74cf559ab7035d005a03eac6de3cc2df784-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "7e96acf09ab9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "f1f2677c906b",
+          "_type": "span",
+          "marks": [],
+          "text": "The Bands"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "b7b0a9941d57",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8cdf3f21e87b",
+          "_type": "span",
+          "marks": [],
+          "text": "Over the years, I’ve been in several bands playing 5-nights week and paying my dues. Unfortunately, those dues never did pan out into a record deal. I started during high school and played professionally for 10 years before joining IBM."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "43e37adf2ffa",
+      "_type": "image",
+      "alt": "John Rofrano Singing",
+      "asset": {
+        "_ref": "image-8931dc41bbff96494e5230236f40088c7a76c3f4-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "3be6fd4de94e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "2c89218a9048",
+          "_type": "span",
+          "marks": [],
+          "text": "The Andy Gootch Band"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "27b903d0bc0a",
+      "_type": "image",
+      "alt": "In Andy Gootch",
+      "asset": {
+        "_ref": "image-6306cfc3d34126573b5950716f90857d091725d3-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "978a5ac5ddcf",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1c85f5560f3a",
+          "_type": "span",
+          "marks": [],
+          "text": "The Andy Gootch Band mostly played in the New York Hudson Valley area. That’s me on the left. They were the first band to perform original music, thanks to Tom Christopher, who wrote all of the original tunes we performed. We played places like the Last Chance Saloon in Poughkeepsie, opening for bands like Papa John Creech. It was one of the last bands I was part of, lasting from 1979 to 1981. It was running like a business. We put the money we made in the bank and drew a salary. We had a road crew who cared about the band and ensured everything was perfect. It helped that two members of the crew were the drummer’s brothers. So, it was more like a family than a band. Playing with Gootch was a pleasure. I then moved on to another original band called Steeplechase. I replaced a keyboard player who was leaving. I don’t have any pictures from Steeplechase. We worked for the same agency (CTA), were good friends with Twisted Sister, and opened up for bands like The Good Rats and Patty Smith. The Good Rats are probably some of the nicest guys in Rock and Roll. I saw Joe Franco years later at a NAMM show when he greeted me like I was an old friend. He is a nice guy and a talented drummer."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "402d9f6b4e54",
+      "_type": "image",
+      "alt": "Johnny Roy, Gootch band, NYC",
+      "asset": {
+        "_ref": "image-39cda2f12d95ec42f829e5b800002adcc3d72a19-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "597be7e15567",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b1f78bd49a5e",
+          "_type": "span",
+          "marks": [],
+          "text": "It’s difficult to explain to a band today what it was like playing in the 70’s. The 1970s were a magical age. Peppi Marchello of "
+        },
+        {
+          "_key": "21785a1ef142",
+          "_type": "span",
+          "marks": [
+            "fea34f2ac7b4"
+          ],
+          "text": "The Good Rats"
+        },
+        {
+          "_key": "2aef2518e5e2",
+          "_type": "span",
+          "marks": [],
+          "text": " said the best:"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "fea34f2ac7b4",
+          "_type": "link",
+          "href": "https://www.goodrats.com"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "d5ea1023efd1",
+      "_type": "blockquote",
+      "cite": "https://www.goodrats.com/",
+      "quoteText": "You see it was a different world physically. There were a lot more people at the age of partying. There are many more Baby Boomers than there are Generation X-ers. Number one, we were dealing with baby boomers. Number two, the drinking age was 18, now it’s 21. Number three, the cops used to look the other way, and now they’re looking for you. This was a time when everybody was partying. We were working six or seven nights a week, primarily in the Tri-State area. This is the most populated area in the country, and any direction four hours from where we live, we could still get home that night and not run up big bills."
+    },
+    {
+      "_key": "55ce9e5fcc78",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5d473b3d7679",
+          "_type": "span",
+          "marks": [],
+          "text": "I was fortunate to be a musician during this time."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "4bafb4e08301",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "262e01c10317",
+          "_type": "span",
+          "marks": [],
+          "text": "That was when I turned to computers. I owned a business that created MIDI Librarian software for Apple ][+ and IBM Personal Computer. It was before Microsoft Windows. When I saw Windows 1.0, I loved it. After programming all menus and display routines, I couldn’t wait to start developing for Windows and have all that taken care of for me. It wasn’t until Windows V2.0 that this happened."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "de597080ea1b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b41ff1803d77",
+          "_type": "span",
+          "marks": [],
+          "text": "Tracer"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "7d9e9057411e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "9224e6a684a5",
+          "_type": "span",
+          "marks": [],
+          "text": "Tracer was primarily a Rockland County band, with Rich Steele on guitar, Ed Courtney on bass, and Peter Green on drums. Peter was a human metronome. I’ve never played with a drummer who played as hard or in perfect time as Peter. Sadly, Peter passed away in January 2006 and is missed every day by his family and friends. Ed is just as solid a bass player. Anyone could sound good with those two guys behind you as your rhythm section. In 1980, Richie left the group to join the award-winning kid’s TV show Hot Hero Sandwich."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "64c5dc3f5794",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6d27dd687b56",
+          "_type": "span",
+          "marks": [],
+          "text": "Tracer had a cult following in Rockland County, and the fans were a great bunch of people. It was good to play with people you knew and who appreciated you. It was a much better experience than some of the gigs we did with Glyder, where it was just one club after another, playing for people you’d never seen before."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "11715413ca7c",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1a70554dd9bb",
+          "_type": "span",
+          "marks": [],
+          "text": "Tracer was also the first band that my parents came to see me play in. I think they understood my passion for performing once they saw me on stage and saw the audience’s reaction. It’s like a drug, you know!"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "7ed83450476c",
+      "_type": "image",
+      "alt": "In Tracer",
+      "asset": {
+        "_ref": "image-21437a9d2b5835bd07fc75eaa6e07b42ec262b73-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "f5ca56ba996e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "95d09a9db00a",
+          "_type": "span",
+          "marks": [],
+          "text": "Glyder & Steeplechase"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "2690f3bc593e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "f5bc6e5b7ebe",
+          "_type": "span",
+          "marks": [],
+          "text": "The above photo is me, around 20 years old, when I was in Glyder. That’s an ARP Eminent 310 / Solina organ I’m playing (very rare). Gary Adamson was the drummer, and Tom Christopher, who I later played with in the Andy Gootch band, played guitar for Glyder. John Denay was on bass. We played everything from The Beatles to Led Zeppelin, with plenty of medleys. (I hate medleys!)"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "6448a5a1695d",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5be4b01e012e",
+          "_type": "span",
+          "marks": [],
+          "text": "That was my first band working for the Creative Talent Association (CTA) with Kevin and Marty, the agency that managed Twisted Sister. Later, I played keys for Steeplechase, who were good friends with Twisted Sister because we played all the same clubs (e.g., OBI’s, Fore ‘n Aft, Mother’s, etc.)."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "729187d6267f",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a0d23e4fdbd1",
+          "_type": "span",
+          "marks": [],
+          "text": "I don’t remember making much money after paying the sound man, light man, and roadies, but we sure had a great time."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "bdb03f90505f",
+      "_type": "image",
+      "alt": "Glyder & Steeplechase",
+      "asset": {
+        "_ref": "image-eeaba644311b4f4b881e706b68a4307416376806-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "801499fddbc7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "d8abcbcd97f0",
+          "_type": "span",
+          "marks": [],
+          "text": "Rain"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "eb51d7d32562",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a72e75105153",
+          "_type": "span",
+          "marks": [],
+          "text": "Rain was the first band that I played in full-time. I quit my day job and gigged 5 nights a week from that point forward. Above is a picture of me playing an extremely rare ARP Eminent 310 Organ and Solina String Ensemble that came with an ARP Pro Soloist synthesizer on top. I placed my RMI Piano between the organ and synthesizer because that’s how Rick Wakeman had his setup. By then, I had traded in my White Face ARP Odyssey for an Octave CAT Synthesizer because the oscillators on the ARP Odyssey were becoming unstable. I wish I had gotten it fixed instead of selling it because I sure do miss that synthesizer today. I visited the Octave factory on Steinway Street in Brooklyn several times when asked to send a picture of myself playing my two CATs to use for promotion. I never did, but every time I see an old Octave ad for the CAT, I think of how that could have been me in the picture instead of someone else."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "d1d52bb7b9f4",
+      "_type": "image",
+      "alt": "Rain",
+      "asset": {
+        "_ref": "image-f47eca0c5bbe9113311954ab611689d5f4edb766-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "ced4b38eb8ba",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "afe2d03ea1c4",
+          "_type": "span",
+          "marks": [],
+          "text": "Lance Romance"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a4e2bcd79ccc",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "88feb7dbb25e",
+          "_type": "span",
+          "marks": [],
+          "text": "Lance Romance was my second band circa 1975 and the first of several bands I played with Gary Adamson on drums and Rich Steele on guitar. Mike Garner played bass. He had a Rickenbacker with each of the two pickups wired to a separate amplifier, so he could make the front pickup very bass and the rear pickup treble. It gave the bass a unique tone, which sounded great when we played Yes and Genesis. Rich was forever changing guitars to get just the right sound for the song, and Gary had his first set of Octa-Plus drums with eight white tom-toms wrapped around him. As for me, I had lots and lots of keyboards, both in front and behind me. We played a lot of progressive rock, mostly Yes. I used to perform the solo Rick Wakeman played on the Yessongs LP. Gary and I went on to play in Glyder, and Rich and I later played together in Tracer."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "af16019ef738",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "180b1790e7eb",
+          "_type": "span",
+          "marks": [],
+          "text": "One of my fondest memories of this band was our rehearsal space. It was a shed honed out of a rock hill in Richie’s backyard. It used to be a wine cellar. We used egg crates on the walls and ceiling to try and absorb the sound. We nicknamed it “The Golf Ball” because, when you stepped inside, it felt like you were walking into the inside of a golf ball. The rock walls were very damp, and I think some of the crates came from fruit-like oranges because they got a funky smell after a while. You had to see it to believe it."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "3740ed4fea21",
+      "_type": "image",
+      "alt": "Lance Romance",
+      "asset": {
+        "_ref": "image-05c0e65ba7ab55f0f5d2162e80a9866bdc44c156-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "da8c2f640d09",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "89e8a697d33f",
+          "_type": "span",
+          "marks": [],
+          "text": "Cebra, my first band"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "878cec7ac080",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6f8b42371922",
+          "_type": "span",
+          "marks": [],
+          "text": "That is a picture of me in Cebra. It was a time when Cream and Hendrix were blowing us away. I remember listening to Are You Experienced and thinking, “Wow, this guy is incredible.” We were also heavily influenced by bands like Led Zeppelin, Mountain, Humble Pie, Jeff Beck, & James Gang. I used an RMI Piano, and the ARP Odyssey synthesizer is almost exclusively in this bad."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "0c4b11d7602b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "c4836d4902c0",
+          "_type": "span",
+          "marks": [],
+          "text": "That’s me kneeling in front. The person directly behind me is Fr. Stan Fortuna. Stanley and I have been friends since childhood. We went to Mt. Carmel School and played in our first band together. He was a person of integrity back then and, of course, is the same today. I would love to hear from the other members, but we’ve all gone our separate ways."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "e18f8dde73fc",
+      "_type": "image",
+      "alt": "Cebra",
+      "asset": {
+        "_ref": "image-2d13ca55ada607ffedf2617b7ca27ec5555edf98-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "d4a8af75d65e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "d7832d29fd54",
+          "_type": "span",
+          "marks": [],
+          "text": "High School"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "bf3837f8b87e",
+      "_type": "image",
+      "alt": "John is playing the Epiphone 12-string guitar.",
+      "asset": {
+        "_ref": "image-dd3ef43b95e70d930dd758167e894948331ac324-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "6ffb7401e239",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "13607df18763",
+          "_type": "span",
+          "marks": [],
+          "text": "This is me back in high school, playing guitar, my first instrument, which I learned from my sister and enjoyed. My Epiphone 12-string is long gone, but I now have an Ovation 12-string acoustic-electric that my wife gave me as a wedding gift."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "65614f693cb7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "acb296d9ce15",
+          "_type": "span",
+          "marks": [],
+          "text": "I once owned a 1967 Sunburst Fender Stratocaster with a maple neck. I sold it for $200 in 1970 to get my first keyboard, an RMI Electric Piano. Boy, I wish I had kept that head start."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "categories": [
+    {
+      "_key": "1aa38bd9307e",
+      "_ref": "aff6c345-8721-43ee-b2e6-a99c9b0a403c",
+      "_type": "reference"
+    }
+  ],
+  "changeFrequency": "monthly",
+  "description": "Discover bands I've played with, from high school to pro gigs and stories.",
+  "lastModified": "2025-05-28T20:25:25Z",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Johnny Roy, Gootch band, NYC",
+    "asset": {
+      "_ref": "image-862710e72b2d62b1e21f35804d0d1e1bd33f1830-544x816-png",
+      "_type": "reference"
+    }
+  },
+  "priority": 0.5,
+  "slug": "the-band",
+  "title": "The Band"
+}

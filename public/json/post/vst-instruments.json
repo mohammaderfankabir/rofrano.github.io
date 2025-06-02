@@ -1,0 +1,958 @@
+{
+  "_createdAt": "2025-05-28T21:43:05Z",
+  "_id": "1f28b868-c040-49cc-a8de-4ee4d833e288",
+  "_rev": "qKVobQIv2cxCxC7eKGTRYO",
+  "_type": "post",
+  "_updatedAt": "2025-06-01T10:34:32Z",
+  "body": [
+    {
+      "_key": "c9618fa0e3d4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "c7aca88f5247",
+          "_type": "span",
+          "marks": [],
+          "text": "VST Instruments"
+        }
+      ],
+      "markDefs": [],
+      "style": "h1"
+    },
+    {
+      "_key": "aac87e52bb77",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e23db8a92066",
+          "_type": "span",
+          "marks": [],
+          "text": "Now, you’ve got to understand that I was born in the ’50s, grew up in the ’60s, and played in a rock band five nights a week throughout the ’70s. Guys like Rick Wakeman (Yes) and Keith Emerson (ELP) were my influences, as were bands like Gentle Giant and Genesis. I’ve been searching for VST instruments that emulate keyboards like the Mellotron, Rhodes, B3, Clav, Minimoog, etc., that I used to own and play (I still have my B3 and Minimoog)."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "658e60c7d447",
+      "_type": "image",
+      "alt": "Logic Pro VSTs",
+      "asset": {
+        "_ref": "image-c28b765d55c5ec3594847fa0317c6ecbc039ed15-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "294e26f7382d",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "80cab0e2df85",
+          "_type": "span",
+          "marks": [],
+          "text": "For a while, I got into Virtual Instruments (VSTi) to record with, and it was nice to have all the keyboards I once owned or could never have owned available at my fingertips to compose with. I still have vintage keys, like my Hammond B3, Minimoog, Polymoog, EMU Proteus/1, ESQ-1, Yamaha TX7s, and Roland MKB-300 MIDI Controller. There’s something about having the hardware that virtual instruments can’t replace."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "be39f9fdc589",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5016d39bd118",
+          "_type": "span",
+          "marks": [],
+          "text": "If you’re working with MIDI, high-quality virtual instruments and audio plug-ins are essential. I use "
+        },
+        {
+          "_key": "bdfdaadc4fb9",
+          "_type": "span",
+          "marks": [
+            "0b43e54c4fc8"
+          ],
+          "text": "Waves"
+        },
+        {
+          "_key": "b222a5b15062",
+          "_type": "span",
+          "marks": [],
+          "text": " plug-ins, and you can get a 10% coupon if you purchase through this "
+        },
+        {
+          "_key": "3bf2e4cc3271",
+          "_type": "span",
+          "marks": [
+            "1f851f2140d8"
+          ],
+          "text": "link"
+        },
+        {
+          "_key": "96e24b761099",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "0b43e54c4fc8",
+          "_type": "link",
+          "href": "https://www.waves.com/r/13vnk8"
+        },
+        {
+          "_key": "1f851f2140d8",
+          "_type": "link",
+          "href": "https://www.waves.com/r/13vnk8"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "3c6a0a89a779",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "bda1b5cedc40",
+          "_type": "span",
+          "marks": [],
+          "text": "I used to maintain a list of VSTis that you can buy to emulate those classic synths, but "
+        },
+        {
+          "_key": "fa281e6f7678",
+          "_type": "span",
+          "marks": [
+            "e8dc075bc491"
+          ],
+          "text": "Arturia V Collection"
+        },
+        {
+          "_key": "5b50190a1d5b",
+          "_type": "span",
+          "marks": [],
+          "text": " is now my go-to all-in-one synth collection."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "e8dc075bc491",
+          "_type": "link",
+          "href": "https://www.arturia.com/products/analog-classics/v-collection/overview"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "5b4e3d961c20",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "fbfbed06cede",
+          "_type": "span",
+          "marks": [],
+          "text": "Included in the Arturia V Collection are:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "cb57b5b0e8dc",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "85d6a3114b23",
+          "_type": "span",
+          "marks": [],
+          "text": "B-3 V (Hammond B3)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "ff794dbb487e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "83f6934dc7ef",
+          "_type": "span",
+          "marks": [],
+          "text": "Mellotron V"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "0a6e59a3e596",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "3f42e33d46c9",
+          "_type": "span",
+          "marks": [],
+          "text": "ARP 2600 V"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "446c06ca0000",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e4c4948a26d1",
+          "_type": "span",
+          "marks": [],
+          "text": "Prophet V (Sequential Circuits)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b77683a17ee1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b34b5d3f0f78",
+          "_type": "span",
+          "marks": [],
+          "text": "Mini V (Minimoog)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "867c92c31312",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "ed44051b2df5",
+          "_type": "span",
+          "marks": [],
+          "text": "Modular V (Moog Modular)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "498a6b08e42b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b6f6aa506a84",
+          "_type": "span",
+          "marks": [],
+          "text": "Solina V (String Machine)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b1541dc209fd",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "dd059380d123",
+          "_type": "span",
+          "marks": [],
+          "text": "SEM V (Oberheim)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "8a467a9e8e1e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "014ba36c6003",
+          "_type": "span",
+          "marks": [],
+          "text": "CS-80 V (Yamaha CS-80)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "0494b26dad50",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6fe802ded03f",
+          "_type": "span",
+          "marks": [],
+          "text": "DX7 V (Yamaha DX7)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "e2e33961c334",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "ba614e7359b1",
+          "_type": "span",
+          "marks": [],
+          "text": "Stage-73 V (Fender Rhodes)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "bbb3d4b2c0b5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6e93b3186185",
+          "_type": "span",
+          "marks": [],
+          "text": "Clavinet V"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "09dba9ba1ed6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "c217c7d654d7",
+          "_type": "span",
+          "marks": [],
+          "text": "Piano V"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "6b5ac49f9faa",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "32705f60da1f",
+          "_type": "span",
+          "marks": [],
+          "text": "Farfisa V"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "899548e72a8f",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "2cda45e2e976",
+          "_type": "span",
+          "marks": [],
+          "text": "Wurli V (Wirlitzer)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "e1786ed53f82",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "65c6d4482527",
+          "_type": "span",
+          "marks": [],
+          "text": "VOX Continental V"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "f72df2775308",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "20e743ff3797",
+          "_type": "span",
+          "marks": [],
+          "text": "Matrix-12 V"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "5765469c154a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1fd9ce7ac449",
+          "_type": "span",
+          "marks": [],
+          "text": "Jup-8 V (Roland Jupiter 8)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "c8d401fa3565",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "fdf0670570e0",
+          "_type": "span",
+          "marks": [],
+          "text": "CMI V (Fairlight CMI)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "d76f04088222",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "d978ead62e4c",
+          "_type": "span",
+          "marks": [],
+          "text": "Synclavier V"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "1ec69ba99c7a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8c388c81fc67",
+          "_type": "span",
+          "marks": [],
+          "text": "Can you imagine owning all these synths? I’ve owned some of them, but I’m guessing almost no one had the chance to play with a Fairlight CMI or Synclavier. This collection is worth every penny."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "453f473e72bf",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "ef7572cfa2ad",
+          "_type": "span",
+          "marks": [],
+          "text": "Here is a list of alternate VSTi’s that you can buy that emulate those classic keyboards as well:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b0538b477656",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "49d5e88da763",
+          "_type": "span",
+          "marks": [],
+          "text": "Mellotron: M-Tron from GForce"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "5211b2bcf829",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "3bc2acbe2aa9",
+          "_type": "span",
+          "marks": [],
+          "text": "Hammond B3: B4 Organ from Native Instruments"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "5757d47d82ef",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "db894e3ffc51",
+          "_type": "span",
+          "marks": [],
+          "text": "Fender Rhodes: Lounge Lizard EP-2 from Applied Acoustic Systems"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "c42f2acb9e15",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5121ed882cb0",
+          "_type": "span",
+          "marks": [],
+          "text": "Here is a listing of some FREE VSTi instruments to use with ACID Pro or any VSTi-compatible host. I found most of these through the "
+        },
+        {
+          "_key": "1af0fb8c0367",
+          "_type": "span",
+          "marks": [
+            "e9e43909f541"
+          ],
+          "text": "K-v-R"
+        },
+        {
+          "_key": "8d3d262a810f",
+          "_type": "span",
+          "marks": [],
+          "text": " website, which is an excellent directory of everything VST."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "e9e43909f541",
+          "_type": "link",
+          "href": "https://www.kvraudio.com"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "765b1a053fb9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e5a5f3e905d9",
+          "_type": "span",
+          "marks": [],
+          "text": "Mellotron: Tapeworm from Tweakbench has strings, voices, flues, brass"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "11dfdd9d3604",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "719c36a02937",
+          "_type": "span",
+          "marks": [],
+          "text": "Fender Rhodes: Mr.Ray 2 or 4Front Rhodes, Piano, Bass, E-Piano – Some exceptional pianos"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "bd16f0ff1d0e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "289e87ee581b",
+          "_type": "span",
+          "marks": [],
+          "text": "Tonewheel Organ (B3): ORGANized trio"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "dd2aaf0e92b4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "90a9d680722b",
+          "_type": "span",
+          "marks": [],
+          "text": "Multi-sound: SampleTank 1.1.9 FREE"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "3d0ddddce4d9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1971b2a3bc6a",
+          "_type": "span",
+          "marks": [],
+          "text": "Polyphonic Analog Subtractive Synthesizer: LinPlug FreeAlpha"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "82ba859b090b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5aea68360233",
+          "_type": "span",
+          "marks": [],
+          "text": "Polyphonic Analog Subtractive Synthesizer: Superwave P8"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a380def54c3f",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "78ce2fffb3f0",
+          "_type": "span",
+          "marks": [],
+          "text": "SoundFonts"
+        }
+      ],
+      "markDefs": [],
+      "style": "h3"
+    },
+    {
+      "_key": "ad175234aae5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "4f2eb830f70d",
+          "_type": "span",
+          "marks": [],
+          "text": "SynthZone "
+        },
+        {
+          "_key": "a5297b8a9c46",
+          "_type": "span",
+          "marks": [
+            "fbbe0460176e"
+          ],
+          "text": "SoundFont Resources"
+        },
+        {
+          "_key": "7e56c60f8157",
+          "_type": "span",
+          "marks": [],
+          "text": " is an outstanding resource for SoundFonts."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "fbbe0460176e",
+          "_type": "link",
+          "href": "http://www.synthzone.com/soundfont.htm"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "dc5ce2bf82a2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "4def17d59e8a",
+          "_type": "span",
+          "marks": [],
+          "text": "VST Effects"
+        }
+      ],
+      "markDefs": [],
+      "style": "h3"
+    },
+    {
+      "_key": "6fb3a25152ca",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "d49fc7160f0b",
+          "_type": "span",
+          "marks": [],
+          "text": "ACID Pro 5.0 now supports VST effects. Here is a list of free VST effects:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "ab974aa29080",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "67632a49cde9",
+          "_type": "span",
+          "marks": [],
+          "text": "Kjaerhus Audio Classic Series (Chorus, Compressor, Delay, EQ, Flanger, Phaser, Limiter, Reverb)"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "4d2af8400cf5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "7249507096c5",
+          "_type": "span",
+          "marks": [],
+          "text": "Voxengo has high-quality VST effects, both free and paid."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b34e5d4070b2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5b692558dcbe",
+          "_type": "span",
+          "marks": [],
+          "text": "Control Devices"
+        }
+      ],
+      "markDefs": [],
+      "style": "h3"
+    },
+    {
+      "_key": "5507c32f41af",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "69de9f6fda43",
+          "_type": "span",
+          "marks": [],
+          "text": "You’ll need a way to control your VSTi synths. Both hardware and software solutions are available:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "44dcd39a649a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "30852a7d1b38",
+          "_type": "span",
+          "marks": [],
+          "text": "M-Audio has an excellent line of MIDI Keyboard Controllers. I use the Axium 61, and I love it."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "f391965b464c",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8cc0ccbcb4ac",
+          "_type": "span",
+          "marks": [
+            "29cbf050d328"
+          ],
+          "text": "Frontier Design Tranzport"
+        },
+        {
+          "_key": "3c60b7859af0",
+          "_type": "span",
+          "marks": [],
+          "text": " is an excellent transport controller for recording and playback."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [
+        {
+          "_key": "29cbf050d328",
+          "_type": "link",
+          "href": "http://frontierdesign.com/Products/TranzPort"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "75748ac7927d",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "053825060969",
+          "_type": "span",
+          "marks": [
+            "e415c9d18b78"
+          ],
+          "text": "Bome’s Mouse Keyboard"
+        },
+        {
+          "_key": "4998a42ce6b2",
+          "_type": "span",
+          "marks": [],
+          "text": " is an excellent software keyboard for those times when you don’t have hardware available."
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [
+        {
+          "_key": "e415c9d18b78",
+          "_type": "link",
+          "href": "https://www.bome.com/products/mousekeyboard"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "03dc8da971ff",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b4aca24a23e5",
+          "_type": "span",
+          "marks": [],
+          "text": "Songwriting and Recording"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "105c6c0cee4c",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "9e066feccb02",
+          "_type": "span",
+          "marks": [],
+          "text": "I use Apple Logic Pro for all my recordings. It has a great collection of vintage softsynths. When I used Windows, I favored Sony ACID Pro 7.0 for music composition. It was the best loop-based software I found. While most DAWs today support loops, ACID’s streamlined interface never got in the way of creativity."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "70ca7af0d5e9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "26ea63f6b7c1",
+          "_type": "span",
+          "marks": [],
+          "text": "I like to write in sections and then arrange those sections into a song. ACID makes this easy because its loop-based approach allows me to record a verse or chorus once and reuse it as many times as I want. You can quickly throw a song together and hear how it will sound. Since I write alone, it’s great to have Mick Fleetwood lay down a drum track and Rudy Sarzo a bass track to inspire me. 😉 Of course, I’m referring to the ability to purchase loops from other musicians and use them in your compositions royalty-free. Usually, when working in a band, someone plays a riff that inspires a jam, which eventually turns into a song. ACID Loops provide that same kind of interactive inspiration."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "categories": [
+    {
+      "_key": "7aebf8a1df8b",
+      "_ref": "aff6c345-8721-43ee-b2e6-a99c9b0a403c",
+      "_type": "reference"
+    }
+  ],
+  "changeFrequency": "monthly",
+  "description": "A ’70s rock musician’s quest for VSTs capturing classic keys like Rhodes.",
+  "lastModified": "2025-05-28T21:42:54Z",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Simulator",
+    "asset": {
+      "_ref": "image-13a701519ad4a54f3aa87b72ebb2eb42f2c2bac9-930x1180-png",
+      "_type": "reference"
+    }
+  },
+  "priority": 0.5,
+  "slug": "vst-instruments",
+  "title": "VST Instruments"
+}

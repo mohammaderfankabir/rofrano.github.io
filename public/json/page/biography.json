@@ -1,0 +1,233 @@
+{
+  "_createdAt": "2025-05-29T12:46:45Z",
+  "_id": "9ca8b2c8-3869-45af-ab33-86e8b5065586",
+  "_rev": "AtkzbEDC8k77XY1rGHg5JK",
+  "_type": "page",
+  "_updatedAt": "2025-05-29T12:51:34Z",
+  "body": [
+    {
+      "_key": "b49664979594",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "aeda32f88de4",
+          "_type": "span",
+          "text": "John Rofrano"
+        }
+      ],
+      "style": "h1"
+    },
+    {
+      "_key": "bc33a1cdc8bb",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b0ed7ae3918a",
+          "_type": "span",
+          "marks": [
+            "em"
+          ],
+          "text": "DevOps Champion, Software Engineer/Architect, Musician, Vocalist, Songwriter, Author, Educator, Videographer."
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "2db7a85db5fe",
+      "_type": "image",
+      "alt": "John J. Rofrano",
+      "asset": {
+        "_ref": "image-12cc9357e164c4975f49748d2ce5ec1171ec481c-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "ae451258c624",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "75d4a6f2e7ab",
+          "_type": "span",
+          "text": "John Rofrano is a Senior Technical Staff Member and DevOps Champion at IBM T.J. Watson Research Center, where he leads various research projects exploring the use of Generative AI for accelerating Application Modernization to the Cloud. He is also a DevOps Champion, and he pioneered the IBM Research DevOps Bootcamps, which provided an immersive training environment into the Culture, Practices, and Technologies of DevOps. John has spent 40 years at IBM, leading projects including Cloud Migration, Cloud Native Workload Management, and DevSecOps."
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "aab8e9a33cec",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "d417df2a1c29",
+          "_type": "span",
+          "text": "Adjunct Faculty"
+        }
+      ],
+      "style": "h2"
+    },
+    {
+      "_key": "5c03534979b1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "64f2a0b5f386",
+          "_type": "span",
+          "text": "John is also an Adjunct Faculty Member at NYU Courant Institute of Mathematical Sciences and Stern School of Business, where he teaches a graduate course on DevOps and Agile Methodologies. He was named a Top Instructor at Coursera, where he has published courses on DevOps, Agile Development and Scrum, Test Driven Development, Continuous Integration, Continuous Delivery, and Application Security and Monitoring. John has also taught Migration to Cloud Computing at Columbia University."
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "832d5694903e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e5c4f32500cd",
+          "_type": "span",
+          "text": "VASST Trainer"
+        }
+      ],
+      "style": "h2"
+    },
+    {
+      "_key": "acf80b56b892",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e45d952078df",
+          "_type": "span",
+          "text": "Previously, John was a Senior VASST Trainer and the author of "
+        },
+        {
+          "_key": "de54a35c7dbc",
+          "_type": "span",
+          "marks": [
+            "022471d51004"
+          ],
+          "text": "Instant ACID"
+        },
+        {
+          "_key": "435527fd1fb0",
+          "_type": "span",
+          "text": ", a book on Sony ACID Pro software, and "
+        },
+        {
+          "_key": "44c40980a774",
+          "_type": "span",
+          "marks": [
+            "e5f976992767"
+          ],
+          "text": "Instant Vegas Movie Studio + DVD"
+        },
+        {
+          "_key": "8cc12a68b00d",
+          "_type": "span",
+          "text": " from CMP Books. He is also the developer of Ultimate S Pro, Vegas Pro Production Assistant, Mayhem, and other software plug-ins, including the FASST Apps for Sony Vegas Pro NLE software."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "022471d51004",
+          "_type": "link",
+          "href": "https://www.amazon.com/Instant-ACID-Rofrano-Iacobus-Paperback/dp/B011827PQU"
+        },
+        {
+          "_key": "e5f976992767",
+          "_type": "link",
+          "href": "https://www.amazon.com/Instant-Vegas-Studio-Douglas-Spotted/dp/157820271X"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "2859b4b4bf2d",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "015a69773895",
+          "_type": "span",
+          "text": "Performing Musician"
+        }
+      ],
+      "style": "h2"
+    },
+    {
+      "_key": "ec03590f8a1f",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "16b6171c0d7f",
+          "_type": "span",
+          "text": "Before joining IBM, John spent 10 years in the ’70s as a performing rock musician, singer, and songwriter, paying his dues in nightclubs and studios in the NY tri-state area. As a keyboard player, his early influences were musicians like Peter Nero, Dave Brubeck, Jimmy Smith, and later Lee Michaels, Rick Wakeman, and Keith Emerson. He admires songwriters like Burton Cummings and Randy Newman for their unique songwriting styles and bands like Yes, Genesis, ELP, and Gentle Giant for their musicianship and willingness to push the envelope of progressive rock."
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "d01c7b592fac",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5643415e120d",
+          "_type": "span",
+          "text": "Electronic Music"
+        }
+      ],
+      "style": "h2"
+    },
+    {
+      "_key": "97f283ecad02",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "621e67303767",
+          "_type": "span",
+          "text": "His interest in the early days of electronic music and MIDI programming ultimately led to a career in Computer Science. John connected his MIDI keyboards to his Apple ][+ via a Roland MPU-401 interface and began writing MIDI software. It ultimately led to his career at IBM. After discovering his new passion for videography in 2000, John returned to his roots of music composition and scoring music for video."
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "94c848b43170",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "cee5ffcc39a2",
+          "_type": "span",
+          "text": "When he wasn’t making music, editing videos, or designing new software, John contributed to several forums. He moderated the Sony Vegas Pro forum at Creative Cow, the Sony ACID and Vegas Scripting forum at the Digital Media Network, and the Sony Creative Software Vegas forums under the username JohnnyRoy."
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "d7d55086fd0b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "21a1c36c7704",
+          "_type": "span",
+          "text": "Who is Johnny Roy?"
+        }
+      ],
+      "style": "h2"
+    },
+    {
+      "_key": "dd2487124e7e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "74197dd75e7d",
+          "_type": "span",
+          "text": "Johnny Roy was his stage name for the 10 years when he played live 5 nights a week in a rock band (circa 1970-1980). His uncle, Jimmy Rofrano (whose real name was Vincent James Rofrano), played guitar in Al Goodman’s orchestra and adopted the name Jimmy Roy because it wasn’t popular to be an Italian immigrant in those days. Jimmy Roy died before he could see John play professionally, so John took the stage name Johnny Roy in his honor."
+        }
+      ],
+      "style": "normal"
+    }
+  ],
+  "changeFrequency": "monthly",
+  "description": "John Rofrano is a Senior Technical Staff Member at IBM T.J. Watson Research Center, DevOps Champion, Software Engineer, Musician, Educator, and Author. With expertise in Generative AI, DevOps, Cloud Migration, and more, he also teaches at NYU and Columbia University. Discover his diverse career journey from software development to music and videography.",
+  "lastModified": "2025-05-29T12:46:08Z",
+  "priority": 0.8,
+  "slug": "biography",
+  "title": "Johnny Roy"
+}

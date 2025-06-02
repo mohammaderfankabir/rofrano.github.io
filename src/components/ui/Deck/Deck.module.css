@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two tiles */
+  gap: 28px;
+  margin-bottom: 12rem;
+}
+
+@media (max-width: 756px) {
+  .container {
+    grid-template-columns: 1fr; /* Switch to single column */
+    margin-bottom: 3.75rem;
+  }
+}

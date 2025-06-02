@@ -1,0 +1,217 @@
+{
+  "_createdAt": "2025-05-28T19:43:18Z",
+  "_id": "5794c7a9-3def-43b6-9b44-455e3636ec41",
+  "_rev": "3gWtT74to7mAGxe44oc4h3",
+  "_type": "post",
+  "_updatedAt": "2025-06-01T10:31:22Z",
+  "body": [
+    {
+      "_key": "99faefcbb32b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6a87d6448781",
+          "_type": "span",
+          "marks": [],
+          "text": "Instant ACID"
+        }
+      ],
+      "markDefs": [],
+      "style": "h1"
+    },
+    {
+      "_key": "5fa0deec69d9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "58516436fdd3",
+          "_type": "span",
+          "marks": [],
+          "text": "I was fortunate to have written a book about Sony ACID Pro, "
+        },
+        {
+          "_key": "8074f4a0ae3a",
+          "_type": "span",
+          "marks": [
+            "aa41e84daf77"
+          ],
+          "text": "Instant ACID"
+        },
+        {
+          "_key": "cb530937fa33",
+          "_type": "span",
+          "marks": [],
+          "text": " , which is both an introductory and in-depth tutorial written by myself and Iaccobus gets you started quickly and then dives into the tips and techniques that I use to get the most out of ACID Pro."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "aa41e84daf77",
+          "_type": "link",
+          "href": "https://www.amazon.com/Instant-ACID-Rofrano-Iacobus-Paperback/dp/B011827PQU"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "ad58c051d544",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "aa7b991e7910",
+          "_type": "span",
+          "marks": [],
+          "text": "Instant ACID from "
+        },
+        {
+          "_key": "0eb74d873bb1",
+          "_type": "span",
+          "marks": [
+            "b2f6012e8d68"
+          ],
+          "text": "CMP Books"
+        },
+        {
+          "_key": "88f045cfe32c",
+          "_type": "span",
+          "marks": [],
+          "text": " completes the circle of Instant books for the core Sony Media Software products alongside Instant Vegas and Instant Sound Forge. Iacobus, My co-author, and I were beta testers for ACID Pro 5.0 and regular contributors to online forums in the ACID communities. You can read a review of the book on "
+        },
+        {
+          "_key": "5089835edc99",
+          "_type": "span",
+          "marks": [
+            "9d1514b7e53f"
+          ],
+          "text": "DigitalProducer"
+        },
+        {
+          "_key": "ee7b5fb3ffa0",
+          "_type": "span",
+          "marks": [],
+          "text": ". You can order it today at "
+        },
+        {
+          "_key": "895d377c834d",
+          "_type": "span",
+          "marks": [
+            "4e5bb4d6996f"
+          ],
+          "text": "Amazon"
+        },
+        {
+          "_key": "708206950b56",
+          "_type": "span",
+          "marks": [],
+          "text": " or "
+        },
+        {
+          "_key": "f0726d9dbf22",
+          "_type": "span",
+          "marks": [
+            "a637c67d3782"
+          ],
+          "text": "O'Reilly Media"
+        },
+        {
+          "_key": "faad4a1e3163",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "b2f6012e8d68",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/UBM_Technology_Group"
+        },
+        {
+          "_key": "9d1514b7e53f",
+          "_type": "link",
+          "href": "http://www.digitalproducer.com/articles/viewarticle.jsp?id=31006"
+        },
+        {
+          "_key": "4e5bb4d6996f",
+          "_type": "link",
+          "href": "http://www.amazon.com/exec/obidos/tg/detail/-/1578202663/"
+        },
+        {
+          "_key": "a637c67d3782",
+          "_type": "link",
+          "href": "https://www.oreilly.com/library/view/instant-acid/9781578202669/"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "d7d8ae104acf",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8892f1aaa72e",
+          "_type": "span",
+          "marks": [],
+          "text": "The Instant series of books are not “bible” books. They do not tell you everything you want to know but are afraid to ask, nor do they go into endless details about why things work the way they do. They facilitate accomplishing core tasks quickly, using workflows the authors have found the most practical."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "72f7ad734877",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "44e05dcc7bd3",
+          "_type": "span",
+          "marks": [],
+          "text": "We have tried to fill this book with enough basics to get you productive quickly and enough advanced tips and techniques to keep you exploring new directions. You don’t have to read Instant ACID cover to cover to understand it. It is written more like a task-oriented reference that you can use to learn the areas that interest you. It is very visual and to the point. We hope you get as much out of reading it as we did writing it. If you have any questions, you can always find us on the "
+        },
+        {
+          "_key": "d380ce90c336",
+          "_type": "span",
+          "marks": [
+            "f11a29185cb0"
+          ],
+          "text": "Magix Forums"
+        },
+        {
+          "_key": "d3c8cec9abc6",
+          "_type": "span",
+          "marks": [],
+          "text": " (John Rofrano is JohnnyRoy, and Iacobus is Iacobus)."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "f11a29185cb0",
+          "_type": "link",
+          "href": "https://forum-archive.magix.info/home"
+        }
+      ],
+      "style": "normal"
+    }
+  ],
+  "categories": [
+    {
+      "_key": "e7f0700218de",
+      "_ref": "bd419779-ffec-4ada-ab63-7908096902de",
+      "_type": "reference"
+    }
+  ],
+  "changeFrequency": "monthly",
+  "description": "Instant ACID guides you through Sony ACID Pro with fast workflows and tips.",
+  "lastModified": "2025-05-28T19:43:08Z",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Instant ACID",
+    "asset": {
+      "_ref": "image-1fe5c26dfa8499fab12276816763a9ee371ee8d3-1930x1170-png",
+      "_type": "reference"
+    }
+  },
+  "priority": 0.5,
+  "slug": "instant-acid",
+  "title": "Instant ACID"
+}

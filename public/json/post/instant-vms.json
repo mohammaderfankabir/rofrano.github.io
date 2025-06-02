@@ -1,0 +1,58 @@
+{
+  "_createdAt": "2025-05-28T20:00:50Z",
+  "_id": "5a23cd38-078d-43d8-8779-214f7cc48856",
+  "_rev": "3gWtT74to7mAGxe44occ8l",
+  "_type": "post",
+  "_updatedAt": "2025-06-01T10:33:58Z",
+  "body": [
+    {
+      "_key": "e65138c81546",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "c8795f5fcce0",
+          "_type": "span",
+          "marks": [],
+          "text": "Instant Vegas Movie Studio"
+        }
+      ],
+      "markDefs": [],
+      "style": "h1"
+    },
+    {
+      "_key": "fcb0159d40d8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b0360ea87170",
+          "_type": "span",
+          "marks": [],
+          "text": "Douglas Spotted Eagle, Jeffery Fisher, and John Rofrano got together to produce this complete one-if-a-kind introduction to all three programs in the Sony Studio suite: Vegas Movie Studio, ACID Music Studio, and Sound Forge Audio Studio. These applications are perfect for beginner to intermediate videographers who want to be productive fast but don’t want to compromise features. The Instant Vegas Movie Studio book will take you step-by-step through all three applications and get you up and running and productive quickly with Vegas Movie Studio 4.0."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "categories": [
+    {
+      "_key": "7ac4457e5a3e",
+      "_ref": "bd419779-ffec-4ada-ab63-7908096902de",
+      "_type": "reference"
+    }
+  ],
+  "changeFrequency": "monthly",
+  "description": "A beginner-friendly guide to Sony’s Studio suite with step-by-step help.",
+  "lastModified": "2025-05-28T20:00:43Z",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Instant Vegas Movie Studio",
+    "asset": {
+      "_ref": "image-799ee74758efdf81d3535ffba66b1a0b5cbd4e4b-1930x1170-png",
+      "_type": "reference"
+    }
+  },
+  "priority": 0.5,
+  "slug": "instant-vms",
+  "title": "Instant VMS"
+}

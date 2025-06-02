@@ -1,0 +1,1298 @@
+{
+  "_createdAt": "2025-05-28T20:36:43Z",
+  "_id": "a2c5a4c6-a725-4252-af85-178ebc55a9f1",
+  "_rev": "qKVobQIv2cxCxC7eKGS5bU",
+  "_type": "post",
+  "_updatedAt": "2025-06-01T10:29:59Z",
+  "body": [
+    {
+      "_key": "19d613f67671",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1537fbe84438",
+          "_type": "span",
+          "marks": [],
+          "text": "Synthesizers"
+        }
+      ],
+      "markDefs": [],
+      "style": "h1"
+    },
+    {
+      "_key": "8d18836cefb8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "9dece8ddca03",
+          "_type": "span",
+          "marks": [],
+          "text": "I started playing keyboards at the dawn of the synthesizer revolution in the late 1960s and early 1970s. I bought my first synthesizer from Sam Ash Music in White Plains, NY. It was a white-faced ARP Odyssey (see above). I loved that little synth and studied it intensively. I still have the owner’s guide and the "
+        },
+        {
+          "_key": "bf72a154e561",
+          "_type": "span",
+          "marks": [
+            "4722033a5a79"
+          ],
+          "text": "Perform! with Roger Powell"
+        },
+        {
+          "_key": "1b7139fec49e",
+          "_type": "span",
+          "marks": [],
+          "text": " guide and tape. I listened to his instructions for hours until I knew that synth like the back of my hand."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "4722033a5a79",
+          "_type": "link",
+          "href": "http://www.arpodyssey.com/Patches/rppatches/rp-front-cover.html"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "bba8e7e4df07",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "08cf251d4e98",
+          "_type": "span",
+          "marks": [],
+          "text": "I gigged with the ARP Odyssey five nights a week, so you had to know it cold because there was no patch memory except for your brain. You had to change patches manually between songs, and guitar players waited for no one, so you needed to be fast!"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "e41c7675ce50",
+      "_type": "image",
+      "alt": "White ARP Odyssey",
+      "asset": {
+        "_ref": "image-fdef9e620f6d935554797ae8c9c09cfb1fa68e0f-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "b6d63aed183b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "dbf743e9b791",
+          "_type": "span",
+          "marks": [],
+          "text": "Eurorack Modular Synthesizers"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "3e310175ca92",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "c3bf1261c182",
+          "_type": "span",
+          "marks": [],
+          "text": "I grew up during the rise of modular synthesizers in the late 1960s and early 1970s and always longed to own one, but the cost was astronomical. The Moog System 55 cost $35,000 when you could buy a house for $32,000 with a 30-year mortgage. Even the ARP 2600 costs $2,600 when you could buy a brand-new Volkswagen Beetle for $1,800. So, owning a modular synthesizer was out of the question."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "45c94f86e6b5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "0ea83c85046a",
+          "_type": "span",
+          "marks": [],
+          "text": "Of course, I couldn’t afford modular synthesizers like the Moog System 15, 35, or 55, the ARP 2500, or the Roland System 100m back then. Even the semi-modular ARP 2600 costs as much as a car. I always wanted one but never had the money. That changed when Behringer made Eurorack 30 years later, and now, I own Eurorack versions of several classic modular synthesizers."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "5e159d5b5299",
+      "_type": "image",
+      "alt": "Modular Eurorack",
+      "asset": {
+        "_ref": "image-972d865a4b6430f37d2998c1ab3cda3e734ff291-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "09c416a3384c",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "10ccd8804b3c",
+          "_type": "span",
+          "marks": [],
+          "text": "I’ve recently begun building a Eurorack system, collecting modules that clone the classic modular synths I couldn’t afford in the ’70s and ’80s."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "759a1f5a33a5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "3b48cbaf843c",
+          "_type": "span",
+          "marks": [],
+          "text": "My Behringer ARP 2600"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "d651862adbc0",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "afe4a6b3d16e",
+          "_type": "span",
+          "marks": [],
+          "text": "My dream synthesizer was the ARP 2600. I could never afford one back in the 1970s. Even when Korg created their “re-issue,” they priced them moderately high and in artificially limited quantities, so once again, only the privileged few could afford them or were lucky enough to order one. I never understood why Korg would do this. Why limit quantities and not make more money by selling what was hot?"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "67c3bd8ce2b0",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "0664103cad00",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer created reproductions of the ARP 2600, including the Grey Meanie and Blue Marvin editions. Finally, an ARP that every musician could afford. That was the first Eurorack synth I bought. It wasn’t a complete modular, but a semi-modular, yet still the “gateway drug.” I immediately downloaded the original owner’s guide, just as I had for the Odyssey, and I was in heaven. How wonderful it was to have the ARP 2600 of my dreams sitting in front of me."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "05e18861f618",
+      "_type": "image",
+      "alt": "B2600 Blue Marvin",
+      "asset": {
+        "_ref": "image-93501cd18976dc59aa4dcc22c31b1bea2787b322-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "e5511a58f98a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "de1dea399dd2",
+          "_type": "span",
+          "marks": [],
+          "text": "My Behringer Moog System 55"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "b74b7c75fe6a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "2ccdcffba0cd",
+          "_type": "span",
+          "marks": [],
+          "text": "My second Eurorack system was the Behringer Moog System 55. In days gone by, I didn’t know anyone who owned Moog System 55. None of the studios I recorded at had it. It was a mythical machine—unattainable unless you were at a university, a major studio, or extremely wealthy. I had never even seen one, let alone played it. Behringer eventually recreated the Moog System 55 as Eurorack modules. A $35,000 synthesizer was suddenly available for $3,500. I picked one up on sale for $3,000. A few months later, the price dropped to $1,500. It felt like the deal of the century."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "bd271c286dc5",
+      "_type": "image",
+      "alt": "Moog System 55",
+      "asset": {
+        "_ref": "image-cbeae04ccf045a5e78743ad76220f584effd8599-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "dd54a59ef169",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "7d690e793c03",
+          "_type": "span",
+          "marks": [
+            "93f758e9f17d"
+          ],
+          "text": "On Modular Grid"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "93f758e9f17d",
+          "_type": "link",
+          "href": "https://www.modulargrid.net/e/racks/view/2416095"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "36bcc0f2d786",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "d60981231304",
+          "_type": "span",
+          "marks": [],
+          "text": "It’s incredible to experience what it was like for Wendy Carlos or Keith Emerson to experiment with such an instrument. The Behringer bundle had one fewer envelope generator than the original, and I needed a second low-pass filter and a 960 sequencer. So, I began augmenting mine with additional modules, including some that Keith had—like a Sample & Hold and a Ring Modulator—which, for some reason, Behringer didn’t reproduce."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "567c614df440",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "c833d9bf4178",
+          "_type": "span",
+          "marks": [],
+          "text": "I’ve added the following Behringer modules to the base system 55 lineup, as seen in the photo above:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "1d68c7b632e8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "15f4a5692bab",
+          "_type": "span",
+          "marks": [],
+          "text": "2x Behringer 921B Oscillator Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "ad2ca5c59bd4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "0004e9bf252f",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 960 Sequential Controller Analog Step Sequencer Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "d1d847a22043",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "fc166ef80867",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 962 Sequential Switch Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "e91c1e8d46ef",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "bef21d910ff3",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 911 Envelope Generator Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "af40243eeb14",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "dbe355ea18bb",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 904A Voltage Controlled Low Pass Filter Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "8f1759b540b4",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "50e365a5ec2a",
+          "_type": "span",
+          "marks": [],
+          "text": "In addition to the Behringer System 55 modules, I added the following:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "30e1c9702187",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "ee4ae763c274",
+          "_type": "span",
+          "marks": [],
+          "text": "Doepfer A-160-5V Voltage Controlled Clock Multiplier / Ratcheting Controller Vintage Edition 2010s - Black"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a29d145531fd",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "009c1626db7d",
+          "_type": "span",
+          "marks": [],
+          "text": "Doepfer A-184-1V Ring Modulator / Sample & Hold / Slew Limiter Vintage Edition 2010s - Black"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "803d3c1ae7cf",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1729cac757e4",
+          "_type": "span",
+          "marks": [],
+          "text": "Doepfer A-170v Dual Slew Limiter Module - Vintage Edition"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "1f66ec442254",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "4493715c5cf0",
+          "_type": "span",
+          "marks": [],
+          "text": "Doepfer A-145-4v SLIM Quad LFO Vintage Edition"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "9be3cea64885",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "09fa1e96f2b6",
+          "_type": "span",
+          "marks": [],
+          "text": "TAKAAB RLFO - Random LFO - Noise, LFO, Sample & Hold"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "7583d2794b4a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "35835eea235f",
+          "_type": "span",
+          "marks": [],
+          "text": "2HP Tune Eurorack Pitch Quantizer Module - Black"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "9c3eac22fc91",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "3fb50e05a17f",
+          "_type": "span",
+          "marks": [],
+          "text": "2hp TM Turing Machine 2010s - Black"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "5c43d2d320a6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "584696c6c9c7",
+          "_type": "span",
+          "marks": [],
+          "text": "Befaco OUT V3"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "9571cc4a1a77",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "f113b79e8649",
+          "_type": "span",
+          "marks": [],
+          "text": "I still want these because they are also Moog replicas from AMSynths:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "c2693a6f7234",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "9c1dac974153",
+          "_type": "span",
+          "marks": [],
+          "text": "AMSynths AM1631 Dual Ring Modulator (replaces Doepfer A-184-1V)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "038abc62a20f",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "4f39b594802e",
+          "_type": "span",
+          "marks": [],
+          "text": "AMSynths AM928 Sample &amp; Hold (replaces Doepfer A-184-1V)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "226cd38f703c",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a4ce2a794e7b",
+          "_type": "span",
+          "marks": [],
+          "text": "It’s still a work in progress with some holes to fill."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "33aff0d8789a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a7549ec76b26",
+          "_type": "span",
+          "marks": [],
+          "text": "My Behringer ARP 2500"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "9eddd50b8ede",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6d06422b9a0b",
+          "_type": "span",
+          "marks": [],
+          "text": "My third Eurorack system was this ARP 2500 reproduction that I built using Behringer Eurorack modules. It cost $1,435. Programming an ARP 2500 is a priceless experience."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "237e75778bf8",
+      "_type": "image",
+      "alt": "Behringer ARP 2500",
+      "asset": {
+        "_ref": "image-4cb4e3a9db73ec1f3a477e943b20c5c38f3bad27-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "4aa243b6d642",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1035df1df5c6",
+          "_type": "span",
+          "marks": [
+            "5294ca7e2197"
+          ],
+          "text": "On Modular Grid"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "5294ca7e2197",
+          "_type": "link",
+          "href": "https://www.modulargrid.net/e/racks/view/2165260"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "84232622dfde",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1ad910467bb9",
+          "_type": "span",
+          "marks": [],
+          "text": "This 2500 system has 4 VCOs, 2 VCFs, 4 EV GEN, 2 SEQ, Ring Mod, S&H, Random Noise, and the Mix Seq module."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "5356e6ce08d5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "7d8803919557",
+          "_type": "span",
+          "marks": [],
+          "text": "These are the modules I purchased to create my Behringer ARP 2500:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "7edb9fff0b79",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "25ac21e01bd9",
+          "_type": "span",
+          "marks": [],
+          "text": "4x Behringer 1004 Oscillator Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "5a0ab840f2df",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "885baf45b228",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 1006 Filtamp 24 dB Low-Pass VCF and VCA Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "0fde680cc4e6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "0d794a2ca460",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 1047 Multimode Filter/Resonator Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "3882b018dc91",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1ca1af785e58",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 1003 Dual Envelope Generator Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "2725204a8e71",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "44df199299f6",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 1033 Dual Envelope Generator Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "3782743de520",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a79158eeea0c",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 1005 Modamp Ring Modulator and VCA Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "009df2b70584",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "3fb2162d4495",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 1036 Sample & Hold / Random Voltage Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "23ddfb5a6351",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "f3af5bb2f92d",
+          "_type": "span",
+          "marks": [],
+          "text": "2x Behringer Clocked Sequential Control Module 1027 8-step Sequencer Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "8bcda8e2d9d5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b4b7fe05c107",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 1050 Mix-Sequencer Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "327140078cd7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "9b53bca9d028",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 1016 Dual Noise / Random Voltage Generator Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "4eb655019f02",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e8c7602b95f5",
+          "_type": "span",
+          "marks": [],
+          "text": "In addition to the Behringer ARP 2500 modules, I added the following:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "bd8fabe167ff",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e10f17cefed4",
+          "_type": "span",
+          "marks": [],
+          "text": "Intellijel Buff Mult Eurorack Buffered Multiple Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "382086e40623",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "94516b879d25",
+          "_type": "span",
+          "marks": [],
+          "text": "2HP Mult Eurorack Mult Module - Silver"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "893a9ccc28a8",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6faab8bedec7",
+          "_type": "span",
+          "marks": [],
+          "text": "2HP Tune Eurorack Pitch Quantizer Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "d1336355feb1",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e37efb9b84da",
+          "_type": "span",
+          "marks": [],
+          "text": "Michigan Synth Works mBrane (6hp Yarns, aluminum)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "7d7a6b336505",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "dab7d9a88ddb",
+          "_type": "span",
+          "marks": [],
+          "text": "Intellijel Outs"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "ed4b06454b95",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "af1de6a94bf9",
+          "_type": "span",
+          "marks": [],
+          "text": "Multiples were the missing link. The original ARP 2500 used a patch matrix to route multiple signals to the same destination. So, I added a buffered and an unbuffered multiple for pitch and CV, along with a quantizer for easier tuning. Intellijel Outs for listening with headphones and “Michigan Synth Works mBrane” with four MIDI-to-CV and gate channels for true polyphony."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b4ef5ebcadce",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "fa8397d11265",
+          "_type": "span",
+          "marks": [],
+          "text": "My Behringer Roland System 100m"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "bc41ab5bbc2b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "71b84c708511",
+          "_type": "span",
+          "marks": [],
+          "text": "Honestly, I never paid much attention to Roland synthesizers in the days gone. None of the keyboard players I idolized (e.g., Rick Wakeman, Keith Emerson, Patrick Moraz) used one, so I just ignored them. I had no idea what they even sounded like. But when Behringer started releasing Roland System 100m modules, I realized they were popular enough that I had missed out on something important. After watching several YouTube videos and liking how they sounded, I was determined to build my Roland System 100m."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "36af62da1cb9",
+      "_type": "image",
+      "alt": "Behringer Roland System 100m",
+      "asset": {
+        "_ref": "image-5922e46b501aa0a1d411c0a574de6fb20ad80cc9-1800x1200-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "d179596e6309",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "bce7650773aa",
+          "_type": "span",
+          "marks": [
+            "b9ecd34c92a5"
+          ],
+          "text": "On Modular Grid"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "b9ecd34c92a5",
+          "_type": "link",
+          "href": "https://www.modulargrid.net/e/racks/view/2261193"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "ee6cc93ba52c",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "2c56cd1eb51e",
+          "_type": "span",
+          "marks": [],
+          "text": "This system has 6 VCOs, 4 VCFs, 4 VCAs, 4 EV GEN, 2 SEQs, and one of every 100m modules that Behringer released."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "746b2aa39d20",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "0f4c15400a9a",
+          "_type": "span",
+          "marks": [],
+          "text": "These are the modules that I used for my Roland System 100m recreation:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "7d0b1a2d05d6",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "f0d8c8ff8494",
+          "_type": "span",
+          "marks": [],
+          "text": "2 x Behringer 112 Dual VCO Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "9be3c65ab0c5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "9ff6c70b92d3",
+          "_type": "span",
+          "marks": [],
+          "text": "2 x Behringer 110 VCO/VCF/VCA Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b1677a99a561",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "0b4c0ff1b0bf",
+          "_type": "span",
+          "marks": [],
+          "text": "1 x Behringer 121 Dual VCF Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "91b7ec221496",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "21c478687f10",
+          "_type": "span",
+          "marks": [],
+          "text": "1 x Behringer 130 Dual VCA Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "450c123df5ee",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "d4824faf22cf",
+          "_type": "span",
+          "marks": [],
+          "text": "2 x Behringer 140 Dual Envelope/LFO Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "7026bf561ddc",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "948721ad811e",
+          "_type": "span",
+          "marks": [],
+          "text": "2 x Behringer 182 Sequencer Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "2dc04c2cbf20",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6e8f3b86e1f5",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 150 Ring Mod / Noise / S&H / LFO Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "643b44769405",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "4da3edbae421",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 173 Quad Gate / Multiples Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "09704affb1d2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "ef643d89470c",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 172 Phase Shifter / Delay / LFO Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "66aa3f04db81",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "27963b4c661c",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 297 Dual Portamento / CV Utilities Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "e31a0282750a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "273beac3a6f7",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer 305 EQ / Mixer / Output Eurorack Module"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "6c9ab07d446e",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8c0aeb794dbd",
+          "_type": "span",
+          "marks": [],
+          "text": "In addition to the Behringer 100m modules, I added the following:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "eb7b4a5bd320",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "3281f0c3b046",
+          "_type": "span",
+          "marks": [],
+          "text": "Doepfer A-160-2 Clock/Trigger Divider II"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "266302dc9a33",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "016b09c0183f",
+          "_type": "span",
+          "marks": [],
+          "text": "Ladik Q-040 Quad quantizer"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "c1d04b469d22",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "2b4ec62baef7",
+          "_type": "span",
+          "marks": [],
+          "text": "Ladik S-610 Composer N"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "568899247e5a",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1316c36ad3ea",
+          "_type": "span",
+          "marks": [],
+          "text": "Behringer Space FX"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "ee50b189a2c5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8c564f302cbf",
+          "_type": "span",
+          "marks": [],
+          "text": "Erica Synths Black MIDI-CV v2"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "categories": [
+    {
+      "_key": "c219b7e2d13d",
+      "_ref": "aff6c345-8721-43ee-b2e6-a99c9b0a403c",
+      "_type": "reference"
+    }
+  ],
+  "changeFrequency": "monthly",
+  "description": "Explore my Eurorack with Behringer ARP 2600, Moog System 55, and ARP 2500.",
+  "lastModified": "2025-05-28T20:36:28Z",
+  "mainImage": {
+    "_type": "image",
+    "alt": "Modular Eurorack",
+    "asset": {
+      "_ref": "image-1a4d003d532824a2b51adccd2d11cc6a8e531974-758x886-png",
+      "_type": "reference"
+    }
+  },
+  "priority": 0.5,
+  "slug": "synthesizers",
+  "title": "Synthesizers"
+}

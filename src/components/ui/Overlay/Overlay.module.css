@@ -1,0 +1,40 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem; /* Tailwind's gap-6 */
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.signature {
+  fill: currentColor;
+  width: 100%;
+  max-width: 276px;
+  height: auto;
+}
+
+.description {
+  font-size: 1.5rem; /* text-2xl */
+  font-family: serif;
+  color: #9ca3af; /* Tailwind gray-400 */
+  max-width: 408px;
+  margin: 0 auto;
+  line-height: 1.75;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  text-align: center;
+}

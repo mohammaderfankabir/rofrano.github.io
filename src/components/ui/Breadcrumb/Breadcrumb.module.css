@@ -1,0 +1,38 @@
+.nav {
+  color: #555555;
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.homeIcon {
+  color: #555555;
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.homeIcon:hover {
+  color: #333333;
+  cursor: pointer;
+}
+
+.chevron {
+  color: #dfdfdf;
+  width: 1em;
+  height: 1em;
+  margin: 0 0.5rem;
+}
+
+.breadcrumb {
+  margin-bottom: 1rem;
+}
+
+.breadcrumb {
+  margin-top: 6rem;
+}
+
+@media (max-width: 756px) {
+  .breadcrumb {
+    margin-top: 3.75rem;
+  }
+}

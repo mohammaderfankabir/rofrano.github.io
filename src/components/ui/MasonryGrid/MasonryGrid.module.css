@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 28px;
+  margin-bottom: 8rem;
+  box-sizing: border-box;
+}
+
+/* Cards 1 & 2 */
+.container > *:not(.cardGroup) {
+  flex: 1 1 calc(50% - 14px);
+  box-sizing: border-box;
+  height: auto;
+  width: auto;
+}
+
+/* Group holding card 3 & 4 */
+.cardGroup {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 28px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Card 3 */
+.cardGroup > :nth-child(1) {
+  flex: 1 1 504px;
+  max-width: 504px;
+  height: auto;
+  aspect-ratio: 0.5625;
+}
+
+/* Card 4 */
+.cardGroup > :nth-child(2) {
+  flex: 1 1 1056px;
+  max-width: 1056px;
+  height: auto;
+  aspect-ratio: 1.2;
+}
+
+/* RESPONSIVE: Stack and unify card 3 & 4 on small screens */
+@media (max-width: 756px) {
+  .container {
+    flex-direction: column;
+    margin-bottom: 3.75rem; /* ✨ Remove bottom margin */
+  }
+
+  .container > *:not(.cardGroup),
+  .cardGroup {
+    width: 100%;
+  }
+
+  .cardGroup {
+    flex-direction: column;
+  }
+
+  .cardGroup > * {
+    max-width: 100% !important;
+    flex-basis: auto !important;
+
+    /* ✨ Reset aspect ratios to make them equal height */
+    aspect-ratio: auto !important;
+    height: auto;
+  }
+}

@@ -1,0 +1,37 @@
+.outer {
+  display: flex;
+  justify-content: space-between; /* Distribute columns evenly */
+}
+
+.inner {
+  display: flex;
+  gap: 3rem; /* Adds consistent spacing between all flex children */
+}
+
+.outer a {
+  text-decoration: none;
+  color: #4d4d4d !important;
+  font-size: 0.875rem;
+}
+
+.outer a:hover {
+  text-decoration: underline;
+}
+
+.outer h3 {
+  font-size: 1rem;
+}
+
+.outer ul {
+  font-size: 1rem;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+@media (max-width: 756px) {
+  .inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem !important;
+  }
+}
