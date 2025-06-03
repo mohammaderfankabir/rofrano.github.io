@@ -14,10 +14,10 @@ export default async function HomePage() {
     "public",
     "json",
     "site",
-    "28fd8b0b-edc5-4b8e-ae9b-dba4fecc1f1d.json"
+    "siteSettings.json"
   );
-  const fileContent = fs.readFileSync(filePath, "utf-8");
-  const data = JSON.parse(fileContent);
+  const siteSettings = fs.readFileSync(filePath, "utf-8");
+  const data = JSON.parse(siteSettings);
 
   const { cards, grid } = resolvingPosts(data);
 

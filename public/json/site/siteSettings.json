@@ -1,17 +1,17 @@
 {
-  "_createdAt": "2025-05-29T14:36:30Z",
-  "_id": "28fd8b0b-edc5-4b8e-ae9b-dba4fecc1f1d",
-  "_rev": "3gWtT74to7mAGxe44shKYr",
+  "_createdAt": "2025-06-03T13:32:33Z",
+  "_id": "siteSettings",
+  "_rev": "rf5ejgBJIwqg7CvklQN6FS",
   "_type": "site",
-  "_updatedAt": "2025-06-02T01:10:34Z",
+  "_updatedAt": "2025-06-03T13:34:33Z",
   "cards": [
     {
-      "_key": "f49508fbced3",
+      "_key": "47e466900732",
       "_ref": "1f28b868-c040-49cc-a8de-4ee4d833e288",
       "_type": "reference"
     },
     {
-      "_key": "d0642a4f5d09",
+      "_key": "169a5e73d366",
       "_ref": "15b08a0c-cd49-496b-b679-ba66dc649bff",
       "_type": "reference"
     }
@@ -20,23 +20,23 @@
   "eyebrow": "DevOps Champion, Musician, Educator",
   "grid": [
     {
-      "_key": "7c5829130b3a",
-      "_ref": "5794c7a9-3def-43b6-9b44-455e3636ec41",
-      "_type": "reference"
-    },
-    {
-      "_key": "0db43109f365",
+      "_key": "c59bfaf694a9",
       "_ref": "5a23cd38-078d-43d8-8779-214f7cc48856",
       "_type": "reference"
     },
     {
-      "_key": "3c6ef292509e",
-      "_ref": "a2c5a4c6-a725-4252-af85-178ebc55a9f1",
+      "_key": "7ac86afedfb4",
+      "_ref": "5794c7a9-3def-43b6-9b44-455e3636ec41",
       "_type": "reference"
     },
     {
-      "_key": "3abb5fb3a770",
+      "_key": "06c24b140e42",
       "_ref": "1dde9612-69bf-4fa2-9b52-9a7929189506",
+      "_type": "reference"
+    },
+    {
+      "_key": "c9caed5c586b",
+      "_ref": "a2c5a4c6-a725-4252-af85-178ebc55a9f1",
       "_type": "reference"
     }
   ],
@@ -52,7 +52,7 @@
   "postDescription": "Some posts stand out—whether insightful, practical or just worth sharing again. These are a few of my favorites.",
   "postsLabel": "TIMELINE",
   "postsTitle": "Ideas, Insights, and Experience",
-  "slug": "28fd8b0b-edc5-4b8e-ae9b-dba4fecc1f1d",
+  "slug": "siteSettings",
   "subheadline": "The transformation to DevOps is a journey, and sometimes, you don’t know what’s over the next hill, but changing corporate culture is never easy.",
   "title": "John Rofrano"
 }

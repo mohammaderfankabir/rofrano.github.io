@@ -60,6 +60,7 @@ export default defineType({
           type: "string",
           title: "Alternative text",
           description: "Important for SEO and accessibility",
+          initialValue: "John Rofrano playing piano",
           validation: (Rule) => Rule.required(),
         },
       ],

@@ -1,9 +1,9 @@
 {
   "_createdAt": "2025-05-28T20:00:50Z",
   "_id": "5a23cd38-078d-43d8-8779-214f7cc48856",
-  "_rev": "3gWtT74to7mAGxe44occ8l",
+  "_rev": "xivHWCsn45hhE9vhAiqjPY",
   "_type": "post",
-  "_updatedAt": "2025-06-01T10:33:58Z",
+  "_updatedAt": "2025-06-03T16:46:52Z",
   "body": [
     {
       "_key": "e65138c81546",
@@ -48,11 +48,11 @@
     "_type": "image",
     "alt": "Instant Vegas Movie Studio",
     "asset": {
-      "_ref": "image-799ee74758efdf81d3535ffba66b1a0b5cbd4e4b-1930x1170-png",
+      "_ref": "image-b5a467fe1ee8124540911d9658e9bfd89d0f2e92-1868x1656-png",
       "_type": "reference"
     }
   },
   "priority": 0.5,
   "slug": "instant-vms",
-  "title": "Instant VMS"
+  "title": "Instant Vegas® Movie Studio + DVD"
 }

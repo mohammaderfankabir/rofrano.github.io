@@ -1,9 +1,9 @@
 {
   "_createdAt": "2025-05-28T20:08:08Z",
   "_id": "15b08a0c-cd49-496b-b679-ba66dc649bff",
-  "_rev": "qKVobQIv2cxCxC7eKGSzZQ",
+  "_rev": "CTPONtai3wWMO0UA6vJoao",
   "_type": "post",
-  "_updatedAt": "2025-06-01T10:32:40Z",
+  "_updatedAt": "2025-06-03T17:17:17Z",
   "body": [
     {
       "_key": "40ba1bcfbf3a",
@@ -264,7 +264,7 @@
     "_type": "image",
     "alt": "Book Shelves",
     "asset": {
-      "_ref": "image-7b5a66e2c25b92397abec274106b8c1e00ed619c-930x1180-png",
+      "_ref": "image-21458e69d60e7a5cb0d29321af80d9ee40444b68-930x1180-png",
       "_type": "reference"
     }
   },

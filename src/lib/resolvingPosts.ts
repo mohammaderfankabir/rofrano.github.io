@@ -47,8 +47,10 @@ export function resolvingPosts(data: SiteData): {
   const gridIds = data.grid.map((ref) => ref._ref);
   const cardIds = data.cards.map((ref) => ref._ref);
 
-  const grid = posts.filter((post) => gridIds.includes(post._id));
-  const cards = posts.filter((post) => cardIds.includes(post._id));
+  const postsById = Object.fromEntries(posts.map((post) => [post._id, post]));
+
+  const grid = gridIds.map((id) => postsById[id]).filter(Boolean);
+  const cards = cardIds.map((id) => postsById[id]).filter(Boolean);
 
   return { cards, grid };
 }

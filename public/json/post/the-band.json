@@ -1,9 +1,9 @@
 {
   "_createdAt": "2025-05-28T20:35:35Z",
   "_id": "1dde9612-69bf-4fa2-9b52-9a7929189506",
-  "_rev": "MaIoS9yq7RPNhL9VIfa4qm",
+  "_rev": "CTPONtai3wWMO0UA6uuZ04",
   "_type": "post",
-  "_updatedAt": "2025-06-02T17:58:49Z",
+  "_updatedAt": "2025-06-03T15:37:48Z",
   "body": [
     {
       "_key": "3d935a21e87e",
@@ -522,13 +522,13 @@
     }
   ],
   "changeFrequency": "monthly",
-  "description": "Discover bands I've played with, from high school to pro gigs and stories.",
+  "description": "Johnny Roy, Gootch band, NYC",
   "lastModified": "2025-05-28T20:25:25Z",
   "mainImage": {
     "_type": "image",
     "alt": "Johnny Roy, Gootch band, NYC",
     "asset": {
-      "_ref": "image-862710e72b2d62b1e21f35804d0d1e1bd33f1830-544x816-png",
+      "_ref": "image-ccc736d7bb6f3ed260ae885c1f5d6d7b4ace8847-746x1326-png",
       "_type": "reference"
     }
   },

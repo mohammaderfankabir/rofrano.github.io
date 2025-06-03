@@ -1,9 +1,9 @@
 {
   "_createdAt": "2025-05-28T21:43:05Z",
   "_id": "1f28b868-c040-49cc-a8de-4ee4d833e288",
-  "_rev": "qKVobQIv2cxCxC7eKGTRYO",
+  "_rev": "CTPONtai3wWMO0UA6vJ0Za",
   "_type": "post",
-  "_updatedAt": "2025-06-01T10:34:32Z",
+  "_updatedAt": "2025-06-03T17:12:12Z",
   "body": [
     {
       "_key": "c9618fa0e3d4",
@@ -948,7 +948,7 @@
     "_type": "image",
     "alt": "Simulator",
     "asset": {
-      "_ref": "image-13a701519ad4a54f3aa87b72ebb2eb42f2c2bac9-930x1180-png",
+      "_ref": "image-27f9dd742d044c8bcfe84b179137c78789d236d2-930x1180-png",
       "_type": "reference"
     }
   },

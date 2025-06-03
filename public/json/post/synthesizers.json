@@ -1,9 +1,9 @@
 {
   "_createdAt": "2025-05-28T20:36:43Z",
   "_id": "a2c5a4c6-a725-4252-af85-178ebc55a9f1",
-  "_rev": "qKVobQIv2cxCxC7eKGS5bU",
+  "_rev": "KO0ci3dOeS2P4LRjUt6k9X",
   "_type": "post",
-  "_updatedAt": "2025-06-01T10:29:59Z",
+  "_updatedAt": "2025-06-03T14:54:06Z",
   "body": [
     {
       "_key": "19d613f67671",
@@ -1288,8 +1288,22 @@
     "_type": "image",
     "alt": "Modular Eurorack",
     "asset": {
-      "_ref": "image-1a4d003d532824a2b51adccd2d11cc6a8e531974-758x886-png",
+      "_ref": "image-7c42895c43c51773684d85e238934fbc6044f09c-1440x1200-png",
       "_type": "reference"
+    },
+    "crop": {
+      "_type": "sanity.imageCrop",
+      "bottom": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0
+    },
+    "hotspot": {
+      "_type": "sanity.imageHotspot",
+      "height": 1,
+      "width": 1,
+      "x": 0.5,
+      "y": 0.5
     }
   },
   "priority": 0.5,

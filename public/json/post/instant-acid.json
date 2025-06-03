@@ -1,9 +1,9 @@
 {
   "_createdAt": "2025-05-28T19:43:18Z",
   "_id": "5794c7a9-3def-43b6-9b44-455e3636ec41",
-  "_rev": "3gWtT74to7mAGxe44oc4h3",
+  "_rev": "Bks8ZLmPXyRxnBZNqRaTd1",
   "_type": "post",
-  "_updatedAt": "2025-06-01T10:31:22Z",
+  "_updatedAt": "2025-06-03T16:59:30Z",
   "body": [
     {
       "_key": "99faefcbb32b",
@@ -201,13 +201,13 @@
     }
   ],
   "changeFrequency": "monthly",
-  "description": "Instant ACID guides you through Sony ACID Pro with fast workflows and tips.",
+  "description": "video | audio | surround | streaming",
   "lastModified": "2025-05-28T19:43:08Z",
   "mainImage": {
     "_type": "image",
     "alt": "Instant ACID",
     "asset": {
-      "_ref": "image-1fe5c26dfa8499fab12276816763a9ee371ee8d3-1930x1170-png",
+      "_ref": "image-ad1fa7d7cae934bb93abe70d06d725783d2698a7-1312x1200-png",
       "_type": "reference"
     }
   },

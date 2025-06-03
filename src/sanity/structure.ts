@@ -16,15 +16,12 @@ export const structure: StructureResolver = (S) =>
     .title("Content")
     .items([
       // Homepage singleton
-      S.listItem()
-        .title("Homepage")
-        .icon(HomeIcon)
-        .child(
-          S.editor()
-            .id("site")
-            .schemaType("site")
-            .documentId("28fd8b0b-edc5-4b8e-ae9b-dba4fecc1f1d")
-        ),
+      S.listItem().title("Homepage").icon(HomeIcon).child(
+        S.editor()
+          .id("singleton-site") // changed from "site"
+          .schemaType("site")
+          .documentId("siteSettings") // ✅ fixed singleton ID
+      ),
 
       // Memorial section with two singletons and custom icons
       S.listItem()
